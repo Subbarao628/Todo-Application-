@@ -1,0 +1,26 @@
+.c{
+    color: red;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.f{
+    color: blue;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.b{
+    border-radius: 10px;
+    border-color: brown;
+}
+.b1{
+    border-radius: 10px;
+    border-color: red;
+
+    
+}
+.b2{
+    border-radius: 10px;
+    border-color: pink;
+    background-color: azure;
+
+}
